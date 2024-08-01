@@ -1,0 +1,3 @@
+increase the root vaolume size of ec2 instace by 20gb
+
+swap the root volume of Linux vm and windows vm try to acesss 
